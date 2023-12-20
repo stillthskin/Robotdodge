@@ -1,0 +1,16 @@
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/bin/Debug/netcoreapp5.0/ValidatingAccounts
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/bin/Debug/netcoreapp5.0/ValidatingAccounts.deps.json
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/bin/Debug/netcoreapp5.0/ValidatingAccounts.runtimeconfig.json
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/bin/Debug/netcoreapp5.0/ValidatingAccounts.runtimeconfig.dev.json
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/bin/Debug/netcoreapp5.0/ValidatingAccounts.dll
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/bin/Debug/netcoreapp5.0/ValidatingAccounts.pdb
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/obj/Debug/netcoreapp5.0/ValidatingAccounts.csproj.AssemblyReference.cache
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/obj/Debug/netcoreapp5.0/ValidatingAccounts.GeneratedMSBuildEditorConfig.editorconfig
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/obj/Debug/netcoreapp5.0/ValidatingAccounts.AssemblyInfoInputs.cache
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/obj/Debug/netcoreapp5.0/ValidatingAccounts.AssemblyInfo.cs
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/obj/Debug/netcoreapp5.0/ValidatingAccounts.csproj.CoreCompileInputs.cache
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/obj/Debug/netcoreapp5.0/ValidatingAccounts.dll
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/obj/Debug/netcoreapp5.0/refint/ValidatingAccounts.dll
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/obj/Debug/netcoreapp5.0/ValidatingAccounts.pdb
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/obj/Debug/netcoreapp5.0/ValidatingAccounts.genruntimeconfig.cache
+/home/still/Desktop/Attach/Proj/ValidatingAccounts/obj/Debug/netcoreapp5.0/ref/ValidatingAccounts.dll

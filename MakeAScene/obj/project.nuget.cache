@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HbxHNpuhcd7W2/s3eHZRa46RpWa+nO0KwpFkUzcx+BlAqU62nEI5A/ObEeNYZVHB8DGOML7ICjbr+uFhGhKkRA==",
+  "success": true,
+  "projectFilePath": "/home/still/Desktop/Attach/Proj/MakeAScene/MakeAScene.csproj",
+  "expectedPackageFiles": [
+    "/home/still/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/still/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/still/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.15/microsoft.netcore.app.host.linux-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

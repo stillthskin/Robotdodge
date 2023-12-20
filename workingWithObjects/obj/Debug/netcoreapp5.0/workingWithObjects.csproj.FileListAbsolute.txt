@@ -1,0 +1,16 @@
+/home/still/Desktop/Attach/Proj/workingWithObjects/bin/Debug/netcoreapp5.0/workingWithObjects
+/home/still/Desktop/Attach/Proj/workingWithObjects/bin/Debug/netcoreapp5.0/workingWithObjects.deps.json
+/home/still/Desktop/Attach/Proj/workingWithObjects/bin/Debug/netcoreapp5.0/workingWithObjects.runtimeconfig.json
+/home/still/Desktop/Attach/Proj/workingWithObjects/bin/Debug/netcoreapp5.0/workingWithObjects.runtimeconfig.dev.json
+/home/still/Desktop/Attach/Proj/workingWithObjects/bin/Debug/netcoreapp5.0/workingWithObjects.dll
+/home/still/Desktop/Attach/Proj/workingWithObjects/bin/Debug/netcoreapp5.0/workingWithObjects.pdb
+/home/still/Desktop/Attach/Proj/workingWithObjects/obj/Debug/netcoreapp5.0/workingWithObjects.csproj.AssemblyReference.cache
+/home/still/Desktop/Attach/Proj/workingWithObjects/obj/Debug/netcoreapp5.0/workingWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+/home/still/Desktop/Attach/Proj/workingWithObjects/obj/Debug/netcoreapp5.0/workingWithObjects.AssemblyInfoInputs.cache
+/home/still/Desktop/Attach/Proj/workingWithObjects/obj/Debug/netcoreapp5.0/workingWithObjects.AssemblyInfo.cs
+/home/still/Desktop/Attach/Proj/workingWithObjects/obj/Debug/netcoreapp5.0/workingWithObjects.csproj.CoreCompileInputs.cache
+/home/still/Desktop/Attach/Proj/workingWithObjects/obj/Debug/netcoreapp5.0/workingWithObjects.dll
+/home/still/Desktop/Attach/Proj/workingWithObjects/obj/Debug/netcoreapp5.0/refint/workingWithObjects.dll
+/home/still/Desktop/Attach/Proj/workingWithObjects/obj/Debug/netcoreapp5.0/workingWithObjects.pdb
+/home/still/Desktop/Attach/Proj/workingWithObjects/obj/Debug/netcoreapp5.0/workingWithObjects.genruntimeconfig.cache
+/home/still/Desktop/Attach/Proj/workingWithObjects/obj/Debug/netcoreapp5.0/ref/workingWithObjects.dll

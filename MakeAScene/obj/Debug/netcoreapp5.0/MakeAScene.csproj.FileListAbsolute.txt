@@ -1,0 +1,16 @@
+/home/still/Desktop/Attach/Proj/MakeAScene/bin/Debug/netcoreapp5.0/MakeAScene
+/home/still/Desktop/Attach/Proj/MakeAScene/bin/Debug/netcoreapp5.0/MakeAScene.deps.json
+/home/still/Desktop/Attach/Proj/MakeAScene/bin/Debug/netcoreapp5.0/MakeAScene.runtimeconfig.json
+/home/still/Desktop/Attach/Proj/MakeAScene/bin/Debug/netcoreapp5.0/MakeAScene.runtimeconfig.dev.json
+/home/still/Desktop/Attach/Proj/MakeAScene/bin/Debug/netcoreapp5.0/MakeAScene.dll
+/home/still/Desktop/Attach/Proj/MakeAScene/bin/Debug/netcoreapp5.0/MakeAScene.pdb
+/home/still/Desktop/Attach/Proj/MakeAScene/obj/Debug/netcoreapp5.0/MakeAScene.csproj.AssemblyReference.cache
+/home/still/Desktop/Attach/Proj/MakeAScene/obj/Debug/netcoreapp5.0/MakeAScene.GeneratedMSBuildEditorConfig.editorconfig
+/home/still/Desktop/Attach/Proj/MakeAScene/obj/Debug/netcoreapp5.0/MakeAScene.AssemblyInfoInputs.cache
+/home/still/Desktop/Attach/Proj/MakeAScene/obj/Debug/netcoreapp5.0/MakeAScene.AssemblyInfo.cs
+/home/still/Desktop/Attach/Proj/MakeAScene/obj/Debug/netcoreapp5.0/MakeAScene.csproj.CoreCompileInputs.cache
+/home/still/Desktop/Attach/Proj/MakeAScene/obj/Debug/netcoreapp5.0/MakeAScene.dll
+/home/still/Desktop/Attach/Proj/MakeAScene/obj/Debug/netcoreapp5.0/refint/MakeAScene.dll
+/home/still/Desktop/Attach/Proj/MakeAScene/obj/Debug/netcoreapp5.0/MakeAScene.pdb
+/home/still/Desktop/Attach/Proj/MakeAScene/obj/Debug/netcoreapp5.0/MakeAScene.genruntimeconfig.cache
+/home/still/Desktop/Attach/Proj/MakeAScene/obj/Debug/netcoreapp5.0/ref/MakeAScene.dll

@@ -1,0 +1,4 @@
+(12/04/2022) WARNING -> Unable to locate file for Player (/home/still/Desktop/Attach/Proj/robotDodge/images/Player.png) [raised in images.cpp:98]
+(12/04/2022) WARNING -> Attempting to get width of invalid bitmap [raised in images.cpp:449]
+(12/04/2022) WARNING -> Attempting to get height of invalid bitmap [raised in images.cpp:465]
+(12/04/2022) WARNING -> Error trying to draw bitmap: passed in bmp is an invalid bitmap pointer. [raised in images.cpp:226]

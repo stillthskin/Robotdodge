@@ -1,0 +1,16 @@
+/home/still/Desktop/Attach/Proj/HelloWorld/bin/Debug/netcoreapp5.0/HelloWorld
+/home/still/Desktop/Attach/Proj/HelloWorld/bin/Debug/netcoreapp5.0/HelloWorld.deps.json
+/home/still/Desktop/Attach/Proj/HelloWorld/bin/Debug/netcoreapp5.0/HelloWorld.runtimeconfig.json
+/home/still/Desktop/Attach/Proj/HelloWorld/bin/Debug/netcoreapp5.0/HelloWorld.runtimeconfig.dev.json
+/home/still/Desktop/Attach/Proj/HelloWorld/bin/Debug/netcoreapp5.0/HelloWorld.dll
+/home/still/Desktop/Attach/Proj/HelloWorld/bin/Debug/netcoreapp5.0/HelloWorld.pdb
+/home/still/Desktop/Attach/Proj/HelloWorld/obj/Debug/netcoreapp5.0/HelloWorld.csproj.AssemblyReference.cache
+/home/still/Desktop/Attach/Proj/HelloWorld/obj/Debug/netcoreapp5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/still/Desktop/Attach/Proj/HelloWorld/obj/Debug/netcoreapp5.0/HelloWorld.AssemblyInfoInputs.cache
+/home/still/Desktop/Attach/Proj/HelloWorld/obj/Debug/netcoreapp5.0/HelloWorld.AssemblyInfo.cs
+/home/still/Desktop/Attach/Proj/HelloWorld/obj/Debug/netcoreapp5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/still/Desktop/Attach/Proj/HelloWorld/obj/Debug/netcoreapp5.0/HelloWorld.dll
+/home/still/Desktop/Attach/Proj/HelloWorld/obj/Debug/netcoreapp5.0/refint/HelloWorld.dll
+/home/still/Desktop/Attach/Proj/HelloWorld/obj/Debug/netcoreapp5.0/HelloWorld.pdb
+/home/still/Desktop/Attach/Proj/HelloWorld/obj/Debug/netcoreapp5.0/HelloWorld.genruntimeconfig.cache
+/home/still/Desktop/Attach/Proj/HelloWorld/obj/Debug/netcoreapp5.0/ref/HelloWorld.dll

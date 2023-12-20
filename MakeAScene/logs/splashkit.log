@@ -1,0 +1,8 @@
+(11/04/2022) WARNING -> Unable to locate file for Knock (/home/still/Desktop/Attach/Proj/MakeAScene/sounds/Knocking-84643603.wav) [raised in sound.cpp:79]
+(11/04/2022) WARNING -> Unable to locate file for Pegasi (/home/still/Desktop/Attach/Proj/MakeAScene/images/Pegasi.png) [raised in images.cpp:98]
+(11/04/2022) WARNING -> Error trying to draw bitmap: passed in bmp is an invalid bitmap pointer. [raised in images.cpp:226]
+(11/04/2022) WARNING -> Play Sound Effect called, but no valid sound effect supplied [raised in sound.cpp:132]
+(11/04/2022) WARNING -> Error trying to draw bitmap: passed in bmp is an invalid bitmap pointer. [raised in images.cpp:226]
+(11/04/2022) WARNING -> Unable to locate file for Pegasi (/home/still/Desktop/Attach/Proj/MakeAScene/images/Pegasi.png) [raised in images.cpp:98]
+(11/04/2022) WARNING -> Error trying to draw bitmap: passed in bmp is an invalid bitmap pointer. [raised in images.cpp:226]
+(11/04/2022) WARNING -> Error trying to draw bitmap: passed in bmp is an invalid bitmap pointer. [raised in images.cpp:226]

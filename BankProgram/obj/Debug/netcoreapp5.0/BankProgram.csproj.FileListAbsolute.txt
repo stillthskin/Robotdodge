@@ -1,0 +1,16 @@
+/home/still/Desktop/Attach/Proj/BankProgram/bin/Debug/netcoreapp5.0/BankProgram
+/home/still/Desktop/Attach/Proj/BankProgram/bin/Debug/netcoreapp5.0/BankProgram.deps.json
+/home/still/Desktop/Attach/Proj/BankProgram/bin/Debug/netcoreapp5.0/BankProgram.runtimeconfig.json
+/home/still/Desktop/Attach/Proj/BankProgram/bin/Debug/netcoreapp5.0/BankProgram.runtimeconfig.dev.json
+/home/still/Desktop/Attach/Proj/BankProgram/bin/Debug/netcoreapp5.0/BankProgram.dll
+/home/still/Desktop/Attach/Proj/BankProgram/bin/Debug/netcoreapp5.0/BankProgram.pdb
+/home/still/Desktop/Attach/Proj/BankProgram/obj/Debug/netcoreapp5.0/BankProgram.csproj.AssemblyReference.cache
+/home/still/Desktop/Attach/Proj/BankProgram/obj/Debug/netcoreapp5.0/BankProgram.GeneratedMSBuildEditorConfig.editorconfig
+/home/still/Desktop/Attach/Proj/BankProgram/obj/Debug/netcoreapp5.0/BankProgram.AssemblyInfoInputs.cache
+/home/still/Desktop/Attach/Proj/BankProgram/obj/Debug/netcoreapp5.0/BankProgram.AssemblyInfo.cs
+/home/still/Desktop/Attach/Proj/BankProgram/obj/Debug/netcoreapp5.0/BankProgram.csproj.CoreCompileInputs.cache
+/home/still/Desktop/Attach/Proj/BankProgram/obj/Debug/netcoreapp5.0/BankProgram.dll
+/home/still/Desktop/Attach/Proj/BankProgram/obj/Debug/netcoreapp5.0/refint/BankProgram.dll
+/home/still/Desktop/Attach/Proj/BankProgram/obj/Debug/netcoreapp5.0/BankProgram.pdb
+/home/still/Desktop/Attach/Proj/BankProgram/obj/Debug/netcoreapp5.0/BankProgram.genruntimeconfig.cache
+/home/still/Desktop/Attach/Proj/BankProgram/obj/Debug/netcoreapp5.0/ref/BankProgram.dll

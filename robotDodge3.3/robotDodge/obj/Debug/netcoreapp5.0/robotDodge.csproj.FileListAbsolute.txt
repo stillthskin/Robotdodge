@@ -1,0 +1,16 @@
+/home/still/Desktop/Attach/Proj/robotDodge/bin/Debug/netcoreapp5.0/robotDodge
+/home/still/Desktop/Attach/Proj/robotDodge/bin/Debug/netcoreapp5.0/robotDodge.deps.json
+/home/still/Desktop/Attach/Proj/robotDodge/bin/Debug/netcoreapp5.0/robotDodge.runtimeconfig.json
+/home/still/Desktop/Attach/Proj/robotDodge/bin/Debug/netcoreapp5.0/robotDodge.runtimeconfig.dev.json
+/home/still/Desktop/Attach/Proj/robotDodge/bin/Debug/netcoreapp5.0/robotDodge.dll
+/home/still/Desktop/Attach/Proj/robotDodge/bin/Debug/netcoreapp5.0/robotDodge.pdb
+/home/still/Desktop/Attach/Proj/robotDodge/obj/Debug/netcoreapp5.0/robotDodge.csproj.AssemblyReference.cache
+/home/still/Desktop/Attach/Proj/robotDodge/obj/Debug/netcoreapp5.0/robotDodge.GeneratedMSBuildEditorConfig.editorconfig
+/home/still/Desktop/Attach/Proj/robotDodge/obj/Debug/netcoreapp5.0/robotDodge.AssemblyInfoInputs.cache
+/home/still/Desktop/Attach/Proj/robotDodge/obj/Debug/netcoreapp5.0/robotDodge.AssemblyInfo.cs
+/home/still/Desktop/Attach/Proj/robotDodge/obj/Debug/netcoreapp5.0/robotDodge.csproj.CoreCompileInputs.cache
+/home/still/Desktop/Attach/Proj/robotDodge/obj/Debug/netcoreapp5.0/robotDodge.dll
+/home/still/Desktop/Attach/Proj/robotDodge/obj/Debug/netcoreapp5.0/refint/robotDodge.dll
+/home/still/Desktop/Attach/Proj/robotDodge/obj/Debug/netcoreapp5.0/robotDodge.pdb
+/home/still/Desktop/Attach/Proj/robotDodge/obj/Debug/netcoreapp5.0/robotDodge.genruntimeconfig.cache
+/home/still/Desktop/Attach/Proj/robotDodge/obj/Debug/netcoreapp5.0/ref/robotDodge.dll

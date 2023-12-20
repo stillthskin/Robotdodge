@@ -1,0 +1,16 @@
+/home/still/Desktop/Attach/Proj/Arrays/bin/Debug/netcoreapp5.0/Arrays
+/home/still/Desktop/Attach/Proj/Arrays/bin/Debug/netcoreapp5.0/Arrays.deps.json
+/home/still/Desktop/Attach/Proj/Arrays/bin/Debug/netcoreapp5.0/Arrays.runtimeconfig.json
+/home/still/Desktop/Attach/Proj/Arrays/bin/Debug/netcoreapp5.0/Arrays.runtimeconfig.dev.json
+/home/still/Desktop/Attach/Proj/Arrays/bin/Debug/netcoreapp5.0/Arrays.dll
+/home/still/Desktop/Attach/Proj/Arrays/bin/Debug/netcoreapp5.0/Arrays.pdb
+/home/still/Desktop/Attach/Proj/Arrays/obj/Debug/netcoreapp5.0/Arrays.csproj.AssemblyReference.cache
+/home/still/Desktop/Attach/Proj/Arrays/obj/Debug/netcoreapp5.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/still/Desktop/Attach/Proj/Arrays/obj/Debug/netcoreapp5.0/Arrays.AssemblyInfoInputs.cache
+/home/still/Desktop/Attach/Proj/Arrays/obj/Debug/netcoreapp5.0/Arrays.AssemblyInfo.cs
+/home/still/Desktop/Attach/Proj/Arrays/obj/Debug/netcoreapp5.0/Arrays.csproj.CoreCompileInputs.cache
+/home/still/Desktop/Attach/Proj/Arrays/obj/Debug/netcoreapp5.0/Arrays.dll
+/home/still/Desktop/Attach/Proj/Arrays/obj/Debug/netcoreapp5.0/refint/Arrays.dll
+/home/still/Desktop/Attach/Proj/Arrays/obj/Debug/netcoreapp5.0/Arrays.pdb
+/home/still/Desktop/Attach/Proj/Arrays/obj/Debug/netcoreapp5.0/Arrays.genruntimeconfig.cache
+/home/still/Desktop/Attach/Proj/Arrays/obj/Debug/netcoreapp5.0/ref/Arrays.dll

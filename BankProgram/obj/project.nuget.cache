@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nvVe3qWr/nzwhsranI+0xS8z/cLbeDvCYpXB4shEoRlz0kjqOveVHXu1MAzV7ZjsmE6zP9w31Ytaon4imjxJUw==",
+  "success": true,
+  "projectFilePath": "/home/still/Desktop/Attach/Proj/BankProgram/BankProgram.csproj",
+  "expectedPackageFiles": [
+    "/home/still/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/still/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/still/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.15/microsoft.netcore.app.host.linux-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

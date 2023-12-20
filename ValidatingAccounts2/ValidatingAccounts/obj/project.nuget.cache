@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GicLPZcBP0ZExh9Qe3VrYdBOg3NRX/MSsilRVdv2RjbP06VW+I+VbzfB9ZLJOOllZLkdLf+2y5bfpQKG0Rzrog==",
+  "success": true,
+  "projectFilePath": "/home/still/Desktop/Attach/Proj/ValidatingAccounts/ValidatingAccounts.csproj",
+  "expectedPackageFiles": [
+    "/home/still/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/still/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/still/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.15/microsoft.netcore.app.host.linux-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/home/still/Desktop/Attach/Messy/Messy/obj/Debug/netcoreapp5.0/Messy.csproj.AssemblyReference.cache
+/home/still/Desktop/Attach/Messy/Messy/obj/Debug/netcoreapp5.0/Messy.GeneratedMSBuildEditorConfig.editorconfig
+/home/still/Desktop/Attach/Messy/Messy/obj/Debug/netcoreapp5.0/Messy.AssemblyInfoInputs.cache
+/home/still/Desktop/Attach/Messy/Messy/obj/Debug/netcoreapp5.0/Messy.AssemblyInfo.cs
+/home/still/Desktop/Attach/Messy/Messy/obj/Debug/netcoreapp5.0/Messy.csproj.CoreCompileInputs.cache
+/home/still/Desktop/Attach/Messy/Messy/bin/Debug/netcoreapp5.0/Messy
+/home/still/Desktop/Attach/Messy/Messy/bin/Debug/netcoreapp5.0/Messy.deps.json
+/home/still/Desktop/Attach/Messy/Messy/bin/Debug/netcoreapp5.0/Messy.runtimeconfig.json
+/home/still/Desktop/Attach/Messy/Messy/bin/Debug/netcoreapp5.0/Messy.runtimeconfig.dev.json
+/home/still/Desktop/Attach/Messy/Messy/bin/Debug/netcoreapp5.0/Messy.dll
+/home/still/Desktop/Attach/Messy/Messy/bin/Debug/netcoreapp5.0/Messy.pdb
+/home/still/Desktop/Attach/Messy/Messy/obj/Debug/netcoreapp5.0/Messy.dll
+/home/still/Desktop/Attach/Messy/Messy/obj/Debug/netcoreapp5.0/refint/Messy.dll
+/home/still/Desktop/Attach/Messy/Messy/obj/Debug/netcoreapp5.0/Messy.pdb
+/home/still/Desktop/Attach/Messy/Messy/obj/Debug/netcoreapp5.0/Messy.genruntimeconfig.cache
+/home/still/Desktop/Attach/Messy/Messy/obj/Debug/netcoreapp5.0/ref/Messy.dll

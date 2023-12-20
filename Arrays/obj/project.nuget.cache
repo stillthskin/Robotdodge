@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mUKWCgbdqq4Bx62/pb5ZDHWfNqzP6MZdF66AD4u2p2jnpNXBhWDzQieKEQEbQfFsiQLzqkLb9+ZqhzmbtiXYZQ==",
+  "success": true,
+  "projectFilePath": "/home/still/Desktop/Attach/Proj/Arrays/Arrays.csproj",
+  "expectedPackageFiles": [
+    "/home/still/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/still/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/still/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.15/microsoft.netcore.app.host.linux-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/home/still/Desktop/Attach/Proj/HelloUser/bin/Debug/netcoreapp5.0/HelloUser
+/home/still/Desktop/Attach/Proj/HelloUser/bin/Debug/netcoreapp5.0/HelloUser.deps.json
+/home/still/Desktop/Attach/Proj/HelloUser/bin/Debug/netcoreapp5.0/HelloUser.runtimeconfig.json
+/home/still/Desktop/Attach/Proj/HelloUser/bin/Debug/netcoreapp5.0/HelloUser.runtimeconfig.dev.json
+/home/still/Desktop/Attach/Proj/HelloUser/bin/Debug/netcoreapp5.0/HelloUser.dll
+/home/still/Desktop/Attach/Proj/HelloUser/bin/Debug/netcoreapp5.0/HelloUser.pdb
+/home/still/Desktop/Attach/Proj/HelloUser/obj/Debug/netcoreapp5.0/HelloUser.csproj.AssemblyReference.cache
+/home/still/Desktop/Attach/Proj/HelloUser/obj/Debug/netcoreapp5.0/HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/home/still/Desktop/Attach/Proj/HelloUser/obj/Debug/netcoreapp5.0/HelloUser.AssemblyInfoInputs.cache
+/home/still/Desktop/Attach/Proj/HelloUser/obj/Debug/netcoreapp5.0/HelloUser.AssemblyInfo.cs
+/home/still/Desktop/Attach/Proj/HelloUser/obj/Debug/netcoreapp5.0/HelloUser.csproj.CoreCompileInputs.cache
+/home/still/Desktop/Attach/Proj/HelloUser/obj/Debug/netcoreapp5.0/HelloUser.dll
+/home/still/Desktop/Attach/Proj/HelloUser/obj/Debug/netcoreapp5.0/refint/HelloUser.dll
+/home/still/Desktop/Attach/Proj/HelloUser/obj/Debug/netcoreapp5.0/HelloUser.pdb
+/home/still/Desktop/Attach/Proj/HelloUser/obj/Debug/netcoreapp5.0/HelloUser.genruntimeconfig.cache
+/home/still/Desktop/Attach/Proj/HelloUser/obj/Debug/netcoreapp5.0/ref/HelloUser.dll

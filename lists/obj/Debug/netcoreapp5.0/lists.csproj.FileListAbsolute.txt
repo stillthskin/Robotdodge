@@ -1,0 +1,16 @@
+/home/still/Desktop/Attach/Proj/lists/bin/Debug/netcoreapp5.0/lists
+/home/still/Desktop/Attach/Proj/lists/bin/Debug/netcoreapp5.0/lists.deps.json
+/home/still/Desktop/Attach/Proj/lists/bin/Debug/netcoreapp5.0/lists.runtimeconfig.json
+/home/still/Desktop/Attach/Proj/lists/bin/Debug/netcoreapp5.0/lists.runtimeconfig.dev.json
+/home/still/Desktop/Attach/Proj/lists/bin/Debug/netcoreapp5.0/lists.dll
+/home/still/Desktop/Attach/Proj/lists/bin/Debug/netcoreapp5.0/lists.pdb
+/home/still/Desktop/Attach/Proj/lists/obj/Debug/netcoreapp5.0/lists.csproj.AssemblyReference.cache
+/home/still/Desktop/Attach/Proj/lists/obj/Debug/netcoreapp5.0/lists.GeneratedMSBuildEditorConfig.editorconfig
+/home/still/Desktop/Attach/Proj/lists/obj/Debug/netcoreapp5.0/lists.AssemblyInfoInputs.cache
+/home/still/Desktop/Attach/Proj/lists/obj/Debug/netcoreapp5.0/lists.AssemblyInfo.cs
+/home/still/Desktop/Attach/Proj/lists/obj/Debug/netcoreapp5.0/lists.csproj.CoreCompileInputs.cache
+/home/still/Desktop/Attach/Proj/lists/obj/Debug/netcoreapp5.0/lists.dll
+/home/still/Desktop/Attach/Proj/lists/obj/Debug/netcoreapp5.0/refint/lists.dll
+/home/still/Desktop/Attach/Proj/lists/obj/Debug/netcoreapp5.0/lists.pdb
+/home/still/Desktop/Attach/Proj/lists/obj/Debug/netcoreapp5.0/lists.genruntimeconfig.cache
+/home/still/Desktop/Attach/Proj/lists/obj/Debug/netcoreapp5.0/ref/lists.dll
